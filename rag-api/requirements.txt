@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+google-cloud-storage
+python-multipart
+langchain
+langchain-core
+langchain-community
+langchain-google-vertexai
+google-cloud-aiplatform[matching_engine]
