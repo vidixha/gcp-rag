@@ -1,1 +1,10 @@
-
+google-cloud-storage
+google-cloud-aiplatform[matching_engine]
+langchain
+langchain-core
+langchain-community
+langchain-google-vertexai
+pypdf
+python-docx
+python-pptx
+unstructured
