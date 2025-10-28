@@ -1,6 +1,5 @@
-# RAG API Assignment
 
-This project implements a decoupled RAG (Retrieval-Augmented Generation) system on Google Cloud Platform.
+# This project implements a decoupled RAG (Retrieval-Augmented Generation) system on Google Cloud Platform.
 
 ## Architecture
 1.  **API (`rag-api`)**: A FastAPI application with two endpoints:
